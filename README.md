@@ -91,9 +91,6 @@ O BERT revolucionou o campo de NLP, definindo novos padrões de desempenho para 
 
 # Testando o Modelo BERT com Hugging Face
 
-Este guia ensina como testar o modelo **BERT Base Uncased** da Hugging Face no Google Colab. O modelo é útil para diversas tarefas de NLP, como classificação, extração de informações e análise de similaridade.
-
----
 
 ## Requisitos
 
